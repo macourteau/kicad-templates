@@ -4,7 +4,7 @@
     (thickness 1.7702)
   )
 
-  (paper "A4")
+  (paper "USLetter")
   (title_block
     (title "OSH Park 4-layer template")
     (date "2022-05-04")

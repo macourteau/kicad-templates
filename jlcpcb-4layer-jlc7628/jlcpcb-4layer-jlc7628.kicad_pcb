@@ -4,7 +4,7 @@
     (thickness 1.5954)
   )
 
-  (paper "A4")
+  (paper "USLetter")
   (title_block
     (title "JLCPCB 4-layer template (JLC7628)")
     (date "2022-05-04")
