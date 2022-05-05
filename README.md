@@ -1,7 +1,8 @@
-# kicad-templates
-KiCad project templates for various fabs.
+# KiCad 6 Project Templates
 
-These are my best guesses at correct specifications for various fabs/PCB services. Improvements welcome if there are any issues!
+KiCad 6 project templates for various fabs.
+
+These are my best guesses at correct specifications for various fabs/PCB services, based on their documentation. Improvements welcome if there are any issues!
 
 ## Usage
 
