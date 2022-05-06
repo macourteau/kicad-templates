@@ -2,12 +2,13 @@
 
   (uuid 2915c8e7-0d23-4ba6-b3e2-6339b1c1c957)
 
-  (paper "USLedger")
+  (paper "B")
 
   (title_block
-    (title "JLCPCB 2-layer template")
-    (date "2022-05-04")
-    (rev "A")
+    (title "${TITLE}")
+    (date "${DATE}")
+    (rev "${REVISION}")
+    (company "${COMPANY}")
   )
 
   (lib_symbols

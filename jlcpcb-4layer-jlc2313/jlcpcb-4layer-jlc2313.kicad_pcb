@@ -4,11 +4,12 @@
     (thickness 1.5954)
   )
 
-  (paper "USLetter")
+  (paper "A")
   (title_block
-    (title "JLCPCB 4-layer template (JLC2313)")
-    (date "2022-05-04")
-    (rev "A")
+    (title "${TITLE}")
+    (date "${DATE}")
+    (rev "${REVISION}")
+    (company "${COMPANY}")
   )
 
   (layers

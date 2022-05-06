@@ -883,5 +883,10 @@
       ""
     ]
   ],
-  "text_variables": {}
+  "text_variables": {
+    "COMPANY": "",
+    "DATE": "2022-05-05",
+    "REVISION": "A",
+    "TITLE": "OSH Park 2-layer template"
+  }
 }
